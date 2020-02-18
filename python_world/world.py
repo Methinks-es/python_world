@@ -1,2 +1,2 @@
 def world():
-	return "world"
+	return "methinks world"
